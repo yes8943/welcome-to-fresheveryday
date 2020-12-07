@@ -1,0 +1,56 @@
+#bg{
+    width:1480px;
+    height:700px;
+    background-image: url("그림9.png");
+    p.size1{
+        font-size: x-large;
+    }
+    
+}
+.name {
+    text-align: center;
+    font-family: Impact, sans-serif;
+    font-style: inherit;
+    font-size: 100px;
+    color: rgb(33, 99, 13);
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-inline-start: 20px;
+    position: relative;
+    top: 260px;
+    left: 20px;
+    }
+.name a{
+    text-decoration: none;
+    color: rgb(33, 99, 13);
+}
+#d1{
+        
+        text-align: center;
+        font-family: Impact, sans-serif;
+        font-style: inherit;
+        font-size: 40px;
+        position: relative;
+        top: 270px;
+        right: 130px;
+        color: rgb(0, 0, 0);
+       
+
+        
+    }
+    #d2{
+        
+        text-align: right;
+        font-family: Impact, sans-serif;
+        font-style: inherit;
+        font-size: 40px;
+        position: relative;
+        top: 218px;
+        right: 440px;
+       
+    }
+.line{ width:1480px;
+         height:700px;
+    }
+
+    
